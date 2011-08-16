@@ -1,8 +1,6 @@
 #ifndef KIRK_ENGINE
 #define KIRK_ENGINE
-typedef unsigned char u8;
-typedef unsigned short int u16;
-typedef unsigned int u32;
+#include "types.h"
 
 //Kirk return values
 #define KIRK_OPERATION_SUCCESS 0
